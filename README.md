@@ -1,3 +1,5 @@
+#Привет, меня зовут Екатерина!
+
 ![Static Badge](https://img.shields.io/badge/HTML-%23FFFFFF?style=for-the-badge&logo=html5&logoColor=%23E34F26&color=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/css-%23FFFFFF?style=for-the-badge&logo=css3&logoColor=%231572B6)
 ![Static Badge](https://img.shields.io/badge/javascript-%23FFFFFF?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -24,6 +26,8 @@
 ![Static Badge](https://img.shields.io/badge/github%20pages-%23FFFFFF?style=for-the-badge&logo=githubpages&logoColor=%23222222)
 ![Static Badge](https://img.shields.io/badge/figma-%23FFFFFF?style=for-the-badge&logo=figma&logoColor=%23F24E1E)
 ![Static Badge](https://img.shields.io/badge/bem-%23FFFFFF?style=for-the-badge&logo=bem&logoColor=%23000000)
+![Static Badge](https://img.shields.io/badge/markdown-%23FFFFFF?style=for-the-badge&logo=markdown&logoColor=%23000000)
+
 
 
 
