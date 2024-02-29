@@ -6,7 +6,7 @@
 ![Static Badge](https://img.shields.io/badge/webpack-%23FFFFFF?style=for-the-badge&logo=webpack&logoColor=%238DD6F9)
 ![Static Badge](https://img.shields.io/badge/npm-%23FFFFFF?style=for-the-badge&logo=npm&logoColor=%23CB3837)
 ![Static Badge](https://img.shields.io/badge/yarn-%23FFFFFF?style=for-the-badge&logo=yarn&logoColor=%232C8EBB)
-![Static Badge](https://img.shields.io/badge/bem-%23FFFFFF?style=for-the-badge&logo=bem&logoColor=%23000000)
+
 
 ![Static Badge](https://img.shields.io/badge/react-%23FFFFFF?style=for-the-badge&logo=react&logoColor=%2361DAFB&color=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/CRA-%23FFFFFF?style=for-the-badge&logo=createreactapp&logoColor=%2309D3AC)
@@ -23,6 +23,7 @@
 ![Static Badge](https://img.shields.io/badge/github-%23FFFFFF?style=for-the-badge&logo=github&logoColor=%23181717)
 ![Static Badge](https://img.shields.io/badge/github%20pages-%23FFFFFF?style=for-the-badge&logo=githubpages&logoColor=%23222222)
 ![Static Badge](https://img.shields.io/badge/figma-%23FFFFFF?style=for-the-badge&logo=figma&logoColor=%23F24E1E)
+![Static Badge](https://img.shields.io/badge/bem-%23FFFFFF?style=for-the-badge&logo=bem&logoColor=%23000000)
 
 
 
