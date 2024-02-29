@@ -1,6 +1,15 @@
-#Привет, меня зовут Екатерина!
+# Привет, меня зовут Екатерина! 🖖
 
-![Static Badge](https://img.shields.io/badge/HTML-%23FFFFFF?style=for-the-badge&logo=html5&logoColor=%23E34F26&color=%23FFFFFF)
+ **Я junior Frontend-разработчик** :octocat:
+
+🎓📝 Сейчас я учусь на курсе ["Web-разработчик+"](https://practicum.yandex.ru/web-plus/) ![Static Badge](https://img.shields.io/badge/-grey?style=plastic&label=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2075%25&labelColor=green)
+
+
+
+---
+🔮 Magical skills 
+---
+![Static Badge](https://img.shields.io/badge/HTML-%23FFFFFF?style=for-the-badge&logo=html5&logoColor=%23E34F26&color=%23FFFFFF) 
 ![Static Badge](https://img.shields.io/badge/css-%23FFFFFF?style=for-the-badge&logo=css3&logoColor=%231572B6)
 ![Static Badge](https://img.shields.io/badge/javascript-%23FFFFFF?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Static Badge](https://img.shields.io/badge/typescript-%23FFFFFF?style=for-the-badge&logo=typescript&logoColor=%2361DAFB)
@@ -8,7 +17,6 @@
 ![Static Badge](https://img.shields.io/badge/webpack-%23FFFFFF?style=for-the-badge&logo=webpack&logoColor=%238DD6F9)
 ![Static Badge](https://img.shields.io/badge/npm-%23FFFFFF?style=for-the-badge&logo=npm&logoColor=%23CB3837)
 ![Static Badge](https://img.shields.io/badge/yarn-%23FFFFFF?style=for-the-badge&logo=yarn&logoColor=%232C8EBB)
-
 
 ![Static Badge](https://img.shields.io/badge/react-%23FFFFFF?style=for-the-badge&logo=react&logoColor=%2361DAFB&color=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/CRA-%23FFFFFF?style=for-the-badge&logo=createreactapp&logoColor=%2309D3AC)
@@ -18,7 +26,6 @@
 ![Static Badge](https://img.shields.io/badge/sass-%23FFFFFF?style=for-the-badge&logo=sass&logoColor=%23CC6699)
 ![Static Badge](https://img.shields.io/badge/jest-%23FFFFFF?style=for-the-badge&logo=jest&logoColor=%23C21325)
 ![Static Badge](https://img.shields.io/badge/cypress-%23FFFFFF?style=for-the-badge&logo=cypress&logoColor=%2369D3A7)
-
 
 ![Static Badge](https://img.shields.io/badge/webstorm-%23FFFFFF?style=for-the-badge&logo=webstorm&logoColor=%23000000)
 ![Static Badge](https://img.shields.io/badge/git-%23FFFFFF?style=for-the-badge&logo=git&logoColor=%23F05032)
