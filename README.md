@@ -42,21 +42,7 @@
 ![Static Badge](https://img.shields.io/badge/figma-%23FFFFFF?style=for-the-badge&logo=figma&logoColor=%23F24E1E)
 ![Static Badge](https://img.shields.io/badge/bem-%23FFFFFF?style=for-the-badge&logo=bem&logoColor=%23000000)
 ![Static Badge](https://img.shields.io/badge/markdown-%23FFFFFF?style=for-the-badge&logo=markdown&logoColor=%23000000)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Static Badge](https://img.shields.io/badge/trello-%23FFFFFF?style=for-the-badge&logo=trello&logoColor=%230052CC)
 
 <!---
 gudrum1983/gudrum1983 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
