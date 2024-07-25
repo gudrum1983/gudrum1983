@@ -2,23 +2,66 @@
 
 **Я Frontend-разработчик** :octocat:
 
-
 📆 В ИТ я около 8-ми лет. В начале работала консультантом 1С по технической и методологической поддержке пользователей.
 Участвовала в самых разных проектах - от внедрения уже готовых продуктов, до автоматизации бизнес процессов под нужды
 заказчиков.
 ⛄ Не однократно помогала возобновить и успешно закончить ранее замороженные проекты.
 💻 Последние два года работала разработчиком 1С ... тут то всё и закрутилось ... 💫😍
 
-🎓📝 Сейчас я учусь на
-курсе ["Web-разработчик+"](https://practicum.yandex.ru/web-plus/) ![Static Badge](https://img.shields.io/badge/-grey?style=plastic&label=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2095%25&labelColor=green)
-Мои проекты можно найти в  [📌 Pinned](https://github.com/gudrum1983#:~:text=Customize%20your%20pins-,Pinned,-Loading)
- 
-🚴 В свободное от учебы время катаюсь на велосипеде и 🧶вяжу крючком в технике "Мозаичное вязание" - получается пока хуже, чем
+🎓📝 Сейчас я выпускница курса
+["Web-разработчик+"](https://practicum.yandex.ru/web-plus/) ![Static Badge](https://img.shields.io/badge/-grey?style=plastic&label=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2095%25&labelColor=green).
+Во время прохождения курса я написала несколько проектов на HTML, CSS и JavaScript, работала с адаптивной вёрсткой. Так же 
+создала интерактивные приложения с Node.js на React и Redux, не обошла стороной и TypeScript.
+<details>
+  <summary>👉 Разверните для просмотра проектов или перейти в раздел <a href="https://github.com/gudrum1983#:~:text=Customize%20your%20pins-,Pinned,-Loading">📌 Pinned</a></summary>
+
+<ol>
+    <li>Путешествия по России [<a href="https://github.com/gudrum1983/russian-travel"> 📂 Репозиторий</a> | <a href="https://github.com/gudrum1983/russian-travel">🌐Сайт</a> ]
+        <ul style="padding-bottom: 10px">
+            <li>Создала адаптивный интерфейс с использованием Flex, Grid и медиазапросов для обеспечения корректного 
+                отображения сайта на различных устройствах.</li>
+            <li>Применяла методологию БЭМ для улучшения структуры и поддерживаемости кода.</li>
+<details>
+  <summary>👉 Скриншоты сайта</summary>
+<img src="images/traveling.png" style="height: 300px" alt="Хедер, главная картинка и заголовок">
+<img src="images/img.png" style="height: 300px" alt="Альбом с фото">
+<img src="images/img_1.png" style="height: 300px" alt="Информационные статьи про памятные места">
+
+</details>
+    </ul>
+    </li>
+    <li><a href="https://github.com/gudrum1983/algososh">Визуализатор работы алгоритмов и структур данных</a>
+        <ul style="padding-bottom: 10px">
+            <li>Для реализации пошагового визуализатора работы алгоритмов и структур данных изучила и внедрила
+  паттерн проектирования «Снимок» (Memento), что значительно повысило переиспользуемость кода.</li>
+            <li>Проект включает тестирование с использованием Cypress, Jest и React Testing Library.</li>
+        </ul>
+    </li>
+    <li><a href="https://github.com/gudrum1983/react-stellar-burger">Космическая бургерная</a>
+        <ul style="padding-bottom: 10px"> 
+            <li>Разработала интерактивное веб-приложение для создания бургеров, управления профилем и отслеживания заказов в реальном времени с помощью WebSocket и REST API.</li>
+            <li>Использовала Redux и Middleware для эффективного управления состоянием.</li>
+<li>Внедрила React Router для удобной навигации и работы с заказами, а также react-intersection-observer и Drag-and-drop для улучшения пользовательского опыта.</li>
+        </ul>
+    </li>
+</ol>
+
+Так же все вышеперечисленные проекты собраны <a href="https://github.com/stars/gudrum1983/lists/portfolio">👉 в
+портфолио</a>.
+</details>
+
+🚴 В свободное от учебы время катаюсь на велосипеде и 🧶вяжу крючком в технике "Мозаичное вязание" - получается пока хуже,
+чем
 проекты на TS, но я уверена что и тут у меня всё получится! 🌟🌟🌟
 
 🔮 Skills
 ---
 ![Static Badge](https://img.shields.io/badge/HTML-%23FFFFFF?style=for-the-badge&logo=html5&logoColor=%23E34F26&color=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&color=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&color=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/postman-%23FF6C37?style=for-the-badge&logo=postman&color=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&color=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/swagger-%2385EA2D?style=for-the-badge&logo=swagger&color=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/css-%23FFFFFF?style=for-the-badge&logo=css3&logoColor=%231572B6)
 ![Static Badge](https://img.shields.io/badge/javascript-%23FFFFFF?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Static Badge](https://img.shields.io/badge/typescript-%23FFFFFF?style=for-the-badge&logo=typescript&logoColor=%2361DAFB)
@@ -43,9 +86,7 @@
 ![Static Badge](https://img.shields.io/badge/markdown-%23FFFFFF?style=for-the-badge&logo=markdown&logoColor=%23000000)
 ![Static Badge](https://img.shields.io/badge/trello-%23FFFFFF?style=for-the-badge&logo=trello&logoColor=%230052CC)
 
-📧 Можете связаться со мной:
----
-KochkinaEA@yandex.ru | [Telegram](https://t.me/Gudrum1983)
+#### 📧 KochkinaEA@yandex.ru | [Telegram](https://t.me/Gudrum1983) | [📄 Резюме на HH.ru](https://hh.ru/resume/770743f9ff0d78256b0039ed1f50774143656c)
 
 <!---
 gudrum1983/gudrum1983 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
