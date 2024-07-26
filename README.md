@@ -85,7 +85,7 @@
           <div style="margin-top: 10px;">
             <img src="images/constructor.png" style="height: 300px; border-radius: 10px; box-shadow: 0 0 5px; margin: 5px;" alt="Конструктор бургеров">
             <img src="images/feed.png" style="height: 300px; border-radius: 10px; box-shadow: 0 0 5px; margin: 5px;" alt="Лента заказов">
-            <img src="images/profile2.png" style="height: 300px; border-radius: 10px; box-shadow: 0 0 5px; margin: 5px;" alt="Профиль">
+            <img src="images/profile.png" style="height: 300px; border-radius: 10px; box-shadow: 0 0 5px; margin: 5px;" alt="Профиль">
           </div>
         </details>      
 			</ul>
