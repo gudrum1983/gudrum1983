@@ -1,3 +1,55 @@
+<style>
+  .summary_test {
+      cursor: pointer;
+      list-style: none;
+    }
+
+    .summary_test::-webkit-details-marker {
+      display: none;
+    }
+
+    .summary_test::before {
+      content: "👉";
+      display: inline-block;
+      margin-right: 10px;
+      transform: rotate(0deg);
+      transition: transform 0.3s ease;
+    }
+
+    .details_test[open] .summary_test::before {
+      transform: rotate(90deg);
+    }
+
+    .div_test {
+      overflow: hidden;
+      transition: max-height 0.5s ease-out, opacity 0.5s ease-out;
+      max-height: 0;
+      opacity: 0;
+    }
+
+    .details_test[open] .div_test {
+      transition: max-height 0.5s ease-out, opacity 0.5s ease-out;
+      max-height: 500px; /* Задайте максимальную высоту содержимого */
+      opacity: 1;
+    }
+
+  .highlighted {
+    font-size: 16px;
+    font-weight: 600;
+  }
+
+  .name_project {
+    font-size: 14px;
+  }
+
+  .screenshot {
+    height: 300px;
+    border-radius: 10px;
+    box-shadow: 0 0 5px;
+    margin: 5px;
+  }
+</style>
+
 # 🐼 Привет, меня зовут Екатерина! 🖖
 
 **Я Frontend-разработчик** :octocat:
@@ -12,32 +64,40 @@
 ["Web-разработчик+"](https://practicum.yandex.ru/web-plus/) ![Static Badge](https://img.shields.io/badge/-grey?style=plastic&label=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2095%25&labelColor=green).
 Во время прохождения курса я написала несколько проектов на HTML, CSS и JavaScript, работала с адаптивной вёрсткой. Так же 
 создала интерактивные приложения с Node.js на React и Redux, не обошла стороной и TypeScript.
-<details>
-  <summary>👉 Разверните для просмотра проектов или перейти в <a href="https://github.com/gudrum1983#:~:text=Pinned,Loading">📌 Закрепы</a></summary>
-
+<details class="details_test">
+  <summary class="summary_test"> Разверните для просмотра краткой информации о проектах или перейдите в 
+<a href="https://github.com/gudrum1983#:~:text=Pinned,Loading">📌 Закрепы</a></summary>
+<div class="div_test">
 <ol>
-    <li>Путешествия по России [<a href="https://github.com/gudrum1983/russian-travel"> 📂 Репозиторий</a> | <a href="https://gudrum1983.github.io/russian-travel">🌐Сайт</a> ]
+    <li ><p class="name_project"><span class="highlighted">🚋 Путешествия по России</span> [
+    <a href="https://github.com/gudrum1983/russian-travel"> 📂 Репозиторий</a> 
+    | <a href="https://gudrum1983.github.io/russian-travel">🌐Сайт</a> ]<p>
         <ul style="padding-bottom: 10px">
             <li>Создала адаптивный интерфейс с использованием Flex, Grid и медиазапросов для обеспечения корректного 
                 отображения сайта на различных устройствах.</li>
             <li>Применяла методологию БЭМ для улучшения структуры и поддерживаемости кода.</li>
 <details>
-  <summary>👉 Скриншоты сайта</summary>
-<img src="images/traveling.png" style="height: 300px" alt="Хедер, главная картинка и заголовок">
-<img src="images/img.png" style="height: 300px" alt="Альбом с фото">
-<img src="images/img_1.png" style="height: 300px" alt="Информационные статьи про памятные места">
-
+    <summary style="margin: 10px 0">Скриншоты сайта</summary>
+<div style="margin-top: 10px ">
+<img src="images/traveling.png" class="screenshot" alt="Хедер, главная картинка и заголовок">
+<img src="images/img_1.png" class="screenshot" alt="Информационные статьи про памятные места">
+<img src="images/img.png" class="screenshot" alt="Альбом с фото">
+</div>
 </details>
     </ul>
     </li>
-    <li><a href="https://github.com/gudrum1983/algososh">Визуализатор работы алгоритмов и структур данных</a>
+    <li><p class="name_project"><span class="highlighted">📊 Визуализатор работы алгоритмов и структур данных</span> [
+    <a href="https://github.com/gudrum1983/algososh"> 📂 Репозиторий</a> 
+    | <a href="https://gudrum1983.github.io/algososh">🌐Сайт</a> ]<p>
         <ul style="padding-bottom: 10px">
             <li>Для реализации пошагового визуализатора работы алгоритмов и структур данных изучила и внедрила
   паттерн проектирования «Снимок» (Memento), что значительно повысило переиспользуемость кода.</li>
             <li>Проект включает тестирование с использованием Cypress, Jest и React Testing Library.</li>
         </ul>
     </li>
-    <li><a href="https://github.com/gudrum1983/react-stellar-burger">Космическая бургерная</a>
+    <li><p class="name_project"><span class="highlighted">👽 Космическая бургерная 🍔</span> [
+    <a href="https://github.com/gudrum1983/react-stellar-burger"> 📂 Репозиторий</a> 
+    | <a href="https://gudrum1983.github.io/algososh">🌐Сайт</a> ]<p>
         <ul style="padding-bottom: 10px"> 
             <li>Разработала интерактивное веб-приложение для создания бургеров, управления профилем и отслеживания заказов в реальном времени с помощью WebSocket и REST API.</li>
             <li>Использовала Redux и Middleware для эффективного управления состоянием.</li>
@@ -48,6 +108,7 @@
 
 Так же все вышеперечисленные проекты собраны <a href="https://github.com/stars/gudrum1983/lists/portfolio">👉 в
 портфолио</a>.
+</div>
 </details>
 
 🚴 В свободное от учебы время катаюсь на велосипеде и 🧶вяжу крючком в технике "Мозаичное вязание" - получается пока хуже,
