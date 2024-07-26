@@ -1,37 +1,22 @@
 <style>
   .summary_test {
-      cursor: pointer;
-      list-style: none;
-    }
+    cursor: pointer;
+ list-style: none; /* Убираем стандартный маркер */
+  }
+  .summary_test::-webkit-details-marker {
+    display: none; /* Скрываем стандартный треугольник */
+  }
 
-    .summary_test::-webkit-details-marker {
-      display: none;
-    }
-
-    .summary_test::before {
-      content: "👉";
-      display: inline-block;
-      margin-right: 10px;
-      transform: rotate(0deg);
-      transition: transform 0.3s ease;
-    }
-
-    .details_test[open] .summary_test::before {
-      transform: rotate(90deg);
-    }
-
-    .div_test {
-      overflow: hidden;
-      transition: max-height 0.5s ease-out, opacity 0.5s ease-out;
-      max-height: 0;
-      opacity: 0;
-    }
-
-    .details_test[open] .div_test {
-      transition: max-height 0.5s ease-out, opacity 0.5s ease-out;
-      max-height: 500px; /* Задайте максимальную высоту содержимого */
-      opacity: 1;
-    }
+  .summary_test::before {
+    content: "👉"; /* Устанавливаем свою иконку */
+    display: inline-block;
+    margin-right: 10px;
+    transform: rotate(0deg);
+    transition: transform 0.3s ease;
+  }
+  .details_test[open] .summary_test::before {
+    transform: rotate(90deg); /* Поворачиваем иконку при открытом состоянии */
+  }
 
   .highlighted {
     font-size: 16px;
@@ -67,7 +52,7 @@
 <details class="details_test">
   <summary class="summary_test"> Разверните для просмотра краткой информации о проектах или перейдите в 
 <a href="https://github.com/gudrum1983#:~:text=Pinned,Loading">📌 Закрепы</a></summary>
-<div class="div_test">
+
 <ol>
     <li ><p class="name_project"><span class="highlighted">🚋 Путешествия по России</span> [
     <a href="https://github.com/gudrum1983/russian-travel"> 📂 Репозиторий</a> 
@@ -108,7 +93,6 @@
 
 Так же все вышеперечисленные проекты собраны <a href="https://github.com/stars/gudrum1983/lists/portfolio">👉 в
 портфолио</a>.
-</div>
 </details>
 
 🚴 В свободное от учебы время катаюсь на велосипеде и 🧶вяжу крючком в технике "Мозаичное вязание" - получается пока хуже,
