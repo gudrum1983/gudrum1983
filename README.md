@@ -94,7 +94,7 @@
   Так же все вышеперечисленные проекты собраны <a href="https://github.com/stars/gudrum1983/lists/portfolio">👉 в портфолио</a>.
 </details>
 
-🚴 В свободное от учебы время катаюсь на велосипеде и 🧶 вяжу крючком в технике "Мозаичное вязание" - получается пока хуже, чем проекты на TS, но я уверена что и тут у меня всё получится! 🌟🌟🌟
+🚴 В свободное от учебы время катаюсь на велосипеде и 🧶 вяжу крючком - получается пока хуже, чем проекты на TS, но я уверена что и тут у меня всё получится! 🌟🌟🌟
 
 🔮 Skills
 ---
@@ -128,7 +128,7 @@
 ![Static Badge](https://img.shields.io/badge/markdown-%23FFFFFF?style=for-the-badge&logo=markdown&logoColor=%23000000)
 ![Static Badge](https://img.shields.io/badge/trello-%23FFFFFF?style=for-the-badge&logo=trello&logoColor=%230052CC)
 
-#### 📧 KochkinaEA@yandex.ru | [Telegram](https://t.me/Gudrum1983) | [📄 Резюме на HH.ru](https://hh.ru/resume/770743f9ff0d78256b0039ed1f50774143656c)
+#### 📧 KochkinaEA@yandex.ru | [Telegram](https://t.me/Katherine_Kochkina) | [📄 Резюме на HH.ru](https://hh.ru/resume/770743f9ff0d78256b0039ed1f50774143656c)
 
 <!---
 gudrum1983/gudrum1983 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
