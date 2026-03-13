@@ -151,7 +151,7 @@
 ![Static Badge](https://img.shields.io/badge/markdown-%23FFFFFF?style=for-the-badge&logo=markdown&logoColor=%23000000)
 ![Static Badge](https://img.shields.io/badge/trello-%23FFFFFF?style=for-the-badge&logo=trello&logoColor=%230052CC)
 
-#### 📧 KochkinaEA@yandex.ru | [Telegram](https://t.me/Katherine_Kochkina) | [📄 Резюме на HH.ru](https://hh.ru/resume/9765697bff0fc686d60039ed1f6f554a446f6d)
+#### 📧 kochkinaea83@gmail.com | [Telegram](https://t.me/Katherine_Kochkina) | [📄 Резюме на HH.ru](https://hh.ru/resume/9765697bff0fc686d60039ed1f6f554a446f6d)
 
 <!---
 gudrum1983/gudrum1983 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
